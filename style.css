@@ -12,7 +12,7 @@ body {
 }
 
 .image {
-  background-image: url("Assets/Hero-bg.PNG"); 
+  background-image: url("Assets/Hero-bg.png"); 
   background-size: cover;
   background-position: center;
   padding: 40px 0px;
