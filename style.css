@@ -15,26 +15,25 @@ body {
   background-image: url("Assets/Hero-bg.PNG"); 
   background-size: cover;
   background-position: center;
-  padding: 40px 20px;
-  position: relative;
+  padding: 40px 0px;
   width: 100%;
 }
 
-.header {
+header {
   width: 100%;
   max-width: 1200px;
   margin: 0 auto;
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding-bottom: 40px;
+  padding-bottom: 0 100px;
 }
 
 .logo {
   font-weight: bold;
   font-size: 30px;
   color: #5d5fff;
-  padding-left: 200px;
+  padding-left: 100px;
 }
 
 .signup-btn {
